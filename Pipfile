@@ -21,6 +21,7 @@ werkzeug = "*"
 wheel = "*"
 wincertstore = "*"
 zipp = "*"
+gunicorn = "*"
 
 [dev-packages]
 
