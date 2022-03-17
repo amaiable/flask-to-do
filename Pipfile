@@ -1,0 +1,28 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+flask = "*"
+certifi = "*"
+click = "*"
+flask-login = "*"
+flask-sqlalchemy = "*"
+greenlet = "*"
+importlib-metadata = "*"
+itsdangerous = "*"
+jinja2 = "*"
+markupsafe = "*"
+setuptools = "*"
+tzdata = "*"
+vc = "*"
+werkzeug = "*"
+wheel = "*"
+wincertstore = "*"
+zipp = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"
