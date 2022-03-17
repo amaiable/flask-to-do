@@ -1,3 +1,3 @@
-# learning-flask
+# Todo app
 
-This is my repo for the one time I tried to learn flask ^^
+A basic flask todo list application where users can log in and note down their todo items
